@@ -1,0 +1,9 @@
+.heroes-list {
+  column-count: 6;
+  column-gap: 20px;
+  list-style: none;
+}
+
+li {
+  text-align: left;
+}

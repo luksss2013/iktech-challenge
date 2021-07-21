@@ -1,0 +1,9 @@
+.content-area {
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    margin: 100px 40px 100px 40px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
